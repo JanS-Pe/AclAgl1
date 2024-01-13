@@ -1,0 +1,43 @@
+<table border="3" style="width: 500px;"> 
+  <html>
+ <head>
+   <title> 
+   Lista de Tarefas
+   </title>
+ </head>
+ <body>
+ <h1> Lista de Tarefas </h1>
+  </tr>
+  <tr>
+  <td>Dia</td>
+  <td>Noite</td>
+  </tr>
+  <tr>
+  <td>Comer</td>
+  <td>Tomar banho</td>
+  </tr>
+  <tr>
+  <td>Escovar dentes</td>
+  <td>Escovar dentes</td>
+  </tr>
+  <tr>
+  <td>Maquiar</td>
+  <td>Estudar</td>
+  </tr>
+  <tr>
+  <td>Sair</td>
+  <td>Dormir</td>
+  </tr>
+</table>
+      <ul>
+
+<li><a href=”#”>Link1</a></li>
+
+<li><a href=”#”>Link2</a></li>
+
+<li><a href=”#”>Link3</a></li>
+
+<li><a href=”#”>Link4</a></li>
+
+      </ul>  
+
